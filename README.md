@@ -2,6 +2,9 @@
 
 A simple dockable script for Adobe After Effects that scans all fonts used in your project and lets you replace them with installed fonts in just a few clicks.
 
+
+![Font Replacer for After Effects](preview.jpg)
+
 ## Features
 
 - Scan all fonts used in your project.
