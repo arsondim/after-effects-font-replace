@@ -15,11 +15,21 @@ A simple dockable script for Adobe After Effects that scans all fonts used in yo
 
 ## Installation
 
+**Method 1 – Install as a Dockable Panel**
+
 1. Download [`Font_Replacer_AE.jsx`](./Font_Replacer_AE.jsx).
 2. Copy the file to your After Effects installation folder:
    `Support Files/Scripts/ScriptUI Panels/`
 3. Restart After Effects.
 4. Open **Window → Font_Replacer_AE.jsx**.
+
+**Method 2 – Run Directly**
+
+1. Download [`Font_Replacer_AE.jsx`](./Font_Replacer_AE.jsx).
+2. In After Effects, go to **File → Scripts → Run Script File...**
+3. Select the downloaded `.jsx` file.
+
+Alternatively, use **File → Scripts → Install ScriptUI Panel...** (if available in your After Effects version), then restart After Effects and open the panel from the **Window** menu.
 
 ## How to Use
 
